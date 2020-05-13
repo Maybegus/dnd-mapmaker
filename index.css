@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+#leftbar{
+  background-color: black;
+  float: left;
+  overflow: hidden;
+  height: 100vh;
+  width: 50px;
+  resize: horizontal;
+}
+.gutter{
+  height: 100vh;
+}
