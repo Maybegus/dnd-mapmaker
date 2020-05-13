@@ -1,0 +1,23 @@
+{
+  "name": "dnd-mapmaker",
+  "version": "1.0.0",
+  "description": "An open source dungeon mapper and worldbuilder for tabletop RPGs.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maybegus/dnd-mapmaker.git"
+  },
+  "author": "Maybegus",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/Maybegus/dnd-mapmaker/issues"
+  },
+  "homepage": "https://github.com/Maybegus/dnd-mapmaker#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^8.2.5"
+  }
+}
